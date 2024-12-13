@@ -1,0 +1,5 @@
+coffee/pure european coffe/650.0/Beverage(Coffee)
+
+chicken pie/Chicken pie pastry is a flaky, golden-brown crust filled with a savory mixture of tender chicken, vegetables, and a creamy sauce./225.0/pastry
+marshmellows/sweet confections made from sugar and gelatin./50.0/snacks
+coffe/european black coffee/850.0/bevarage
